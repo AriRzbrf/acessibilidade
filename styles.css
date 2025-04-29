@@ -77,7 +77,7 @@ section {
     margin-top: 3rem;
     margin-bottom: 3rem;
     background: url('img/flor.png') top right no-repeat,
-        url('img/flor-esquerda.png') bottom left no-repeat;
+        url('img/66e52b5de2e3705cb3c9eff76171c9cb-esquerda.jpg') bottom left no-repeat;
     background-size: 180px 180px;
     /* Ajuste o tamanho conforme necessário */
 }
@@ -105,7 +105,7 @@ h2 {
 }
 
 .fundo-galeria {
-    background: url('img/flor-bottom-direita.png') bottom right no-repeat;
+    background: url('img/66e52b5de2e3705cb3c9eff76171c9cb-direita.jpg') bottom right no-repeat;
     background-size: 180px 180px;
 }
 
